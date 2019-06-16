@@ -1,0 +1,22 @@
+.btn-info{
+	width: 200px;
+	height: 50px;
+	margin: 15px;
+}
+p{
+	font-size: 28px;
+	letter-spacing: 2px;
+	opacity: 1;
+}
+  #particles-js {
+    background-color: silver;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+  }
+ footer{
+ 	background-color: grey!important;
+ }
